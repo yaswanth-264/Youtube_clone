@@ -1,0 +1,13 @@
+
+.itemsSection{
+    flex:0.8;
+   background-color:#F9F9F9;
+    padding :30px 50px;
+    padding-bottom:0;
+  
+}
+.videosSection{
+    margin-top:20px;
+    display:flex;
+    flex-wrap:wrap;
+}
